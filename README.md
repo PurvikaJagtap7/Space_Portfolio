@@ -1,5 +1,3 @@
-Welcome to my space portfolio! 🚀 <br>
-Here, you'll find a collection of my projects and contributions related to the fascinating world of space exploration, technology, and science.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
